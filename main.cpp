@@ -11,7 +11,7 @@ int main() {
     std::cin >> y;
     
     std::cout << "summation: " << x + y << "\n";
-    std::cout << "subtraction: " << x - y << "\n;
+    std::cout << "subtraction: " << x - y << "\n";
     std::cout << "multiplication: " << x * y << "\n";
     std::cout << "division: " << x / y << "\n";
     
