@@ -13,7 +13,7 @@ int main() {
     std::cout << "summation: " << x + y << "\n";
     std::cout << "subtraction: " << x - y << "\n";
     std::cout << "multiplication: " << x * y << "\n";
-    std::cout << "division: " << x / y << "\n";
+    std::cout << "division: " << float(x) / float(y) << "\n";
     
     return 0;
     
